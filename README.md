@@ -10,12 +10,19 @@
 </p>
 
 ## Table of Contents
+* [Introduction](#introduction)
+* [Demo](#demo)
+* [Features](#features)
 * [Usage Example](#usage-example)
+* [Quick Guide](#quick-guide)
 * [Getting Started](#getting-started)
+* [Development Setup](#development-setup)
 * [Running the tests](#running-the-tests)
+* [Important Considerations](#important-considerations)
 * [Built With](#built-with)
+* [Release History](#release-history)
+* [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [Versioning](#versioning)
 * [Authors](#authors)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
